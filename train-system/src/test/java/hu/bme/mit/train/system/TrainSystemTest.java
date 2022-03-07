@@ -52,7 +52,6 @@ public class TrainSystemTest {
 
 	@Test
 	public void Train_GetSensor() {
-		sensor = getSensor();
 		Assert.assertNotNull(sensor);
 	}
 }
