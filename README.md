@@ -49,4 +49,8 @@ The figure below illustrates this behavior using an example.
 
 ### Team
 
+<<<<<<< HEAD
 Nico es Martin elso modositasa a readme-n.
+=======
+Nico es Martin *masodik* modositasa a readme-n
+>>>>>>> branch-A
